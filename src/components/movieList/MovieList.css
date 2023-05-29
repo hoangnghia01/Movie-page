@@ -1,0 +1,9 @@
+.movielist{
+    width: 100%;
+    /* display: flex; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding:0 35px;
+}
